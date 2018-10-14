@@ -1,7 +1,7 @@
 html {
-background-color:  #f2f1ed;
-font-family: georgia, serif;
-line-height: 1.5;
+  background-color: #f2f1ed;
+  font-family: georgia, serif;
+  line-height: 1.5;
 }
 
 img {
@@ -11,7 +11,7 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 figcaption {
@@ -23,7 +23,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
 }
 
 nav ol {
