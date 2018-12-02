@@ -8,7 +8,7 @@ img {
   width: 100%;
 }
 
-h1, h2 {
+h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: "Patua One", cursive;
@@ -20,21 +20,23 @@ figcaption {
 }
 
 small {
+  text-align: center;
+  font-style: italic;
   font-size: .5rem;
 }
 
-nav {
+nav li{
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "Patua One", cursive;
-}
-
-nav ol {
   list-style-type: none;
+  text-decoration: none;
 }
 
 nav a {
   color: #793284;
+  font-family: "Patua One",cursive;
+  list-style-type: none;
   text-decoration: none;
 }
 
