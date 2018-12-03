@@ -8,6 +8,14 @@ img {
   width: 100%;
 }
 
+h1 {
+  margin: 1.3rem 0 1.38rem;
+}
+
+h2 {
+  margin: 1.3rem 0;
+}
+
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
